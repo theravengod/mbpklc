@@ -9,6 +9,8 @@ BLPATH = "/sys/class/leds/smc::kbd_backlight"
 BLVALFILE = "brightness"
 BLMAXFILE = "max_brightness"
 
+# TEst 1
+# Test 2
 
 def help():
     print("Set keyboard light level for MacBook Pro laptops")
